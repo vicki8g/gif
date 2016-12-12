@@ -1,0 +1,86 @@
+body {
+	background-color: black;
+	height: 100%;
+	overflow: scroll;
+}
+
+#button-field {
+	width: 95%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#button-field button {
+	margin: 2px;
+	font-size: 12pt;
+	color: navy;
+}
+
+#instruction h1 {
+	color: white;
+	margin-top: 5px;
+	font-size: 25pt;
+	text-align: center;
+}
+
+#GIF-field {
+	width: 95%;
+	background-color: blue;
+	height: 450px;
+	margin: 20px;
+	overflow: scroll;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+#GIF-field div {
+	display: inline-block;
+	margin: 10px;
+	float: left;
+}
+
+#GIF-field p {
+	display: block;
+	text-align: center;
+}
+
+img {
+	margin: 2px; 
+}
+
+#choose {
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#guess {
+	width: 200px;
+	margin: 0 auto;
+}
+
+#clear {
+	width: 100px;
+	display: inline-block;
+
+}
+
+#search {
+	margin: 0 auto;
+	width: 33.5%;
+}
+
+#click {
+	width: 110px;
+	margin: 0 auto
+}
+
+#giphy {
+ margin: 0 auto;
+ display: block;
+ margin-top: 5px;
+
+}
+
+
+
